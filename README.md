@@ -1,4 +1,4 @@
-# Capstone-10-
+# Capstone 10
 # Analisis Strategi Disaster Recovery Center (DRC)
 
 # Deskripsi
